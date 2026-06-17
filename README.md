@@ -1,2 +1,4 @@
 # First
-this my first  git repository 
+this my first  git repository
+Author-Aditya Deshmukh
+
